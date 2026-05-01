@@ -6,7 +6,7 @@
     "dev": "next dev",
     "build": "next build",
     "lint": "eslint",
-    "start": "next start -p $PORT -H 0.0.0.0"
+    "start": "next start -p $PORT "
   },
   "dependencies": {
     "@hookform/resolvers": "^5.2.2",
