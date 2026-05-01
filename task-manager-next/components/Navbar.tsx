@@ -64,6 +64,8 @@ export default function Navbar() {
           </nav>
 
           <div className="flex items-center gap-3">
+            <a href="/login" className="text-sm font-semibold text-[var(--muted-foreground)] hover:text-[var(--foreground)] transition-colors hidden md:block">Login</a>
+            <a href="/signup" className="text-sm font-semibold bg-[var(--accent)] text-[var(--primary)] px-4 py-2 rounded-xl hover:bg-[var(--primary)] hover:text-white transition-all hidden md:block">Sign Up</a>
             <Button onClick={() => setEnquiryOpen(true)} size="sm">
               Enquire Now
             </Button>
