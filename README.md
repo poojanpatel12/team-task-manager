@@ -2,6 +2,11 @@
 
 A full-stack project & task management app with role-based access control (Admin / Member).
 
+
+## 🚀 Live Demo & Repository
+- **Live Demo:** [http://nozomi.proxy.rlwy.net:51867/]
+- **GitHub Repository:** [https://github.com/Poojanpatel12/Team-Task-Manager](https://github.com/Poojanpatel12/Team-Task-Manager)
+
 ## Tech Stack
 
 | Layer | Tech |
